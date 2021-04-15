@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
     margin: 60px auto;
     width: 70%;
@@ -14,7 +18,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: rgb(18, 150, 207);
 }
 a:hover {
     text-decoration: underline;
@@ -28,6 +32,16 @@ p {
     line-height: 1.4em;
     color: #333;
 }
+
+aside {
+    width: 20%;
+    padding-left: 1%;
+    margin-left: 1%;
+    float: right;
+    font-style: italic;
+    background-color: rgb(183, 232, 253);
+}
+
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
