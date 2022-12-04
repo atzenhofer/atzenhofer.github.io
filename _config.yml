@@ -66,11 +66,8 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/atzenhofer"
-    - label: "Discord"
-      icon: "fa-brands fa-discord"
-      url: "https://github.com/atzenhofer"
     - label: "Website"
-      icon: "fa-regular fa-building-columns"
+      icon: "fa-solid fa-building-columns"
       url: "https://personensuche.uni-graz.at/de/?tx_unigrazonline_personsearch%5BcontentUid%5D=51143&tx_unigrazonline_personsearch%5Bcontroller%5D=PersonSearch&tx_unigrazonline_personsearch%5BpersonId%5D=229D4413CC9076A3&cHash=9ecee24d2a0f58ec2ca70ab79f8e2571"
     
     # - label: "Instagram"
