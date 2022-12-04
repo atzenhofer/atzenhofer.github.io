@@ -32,7 +32,7 @@ paginate_path: /page:num/
 timezone: CET # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
- # - _pages
+ - _pages
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -95,9 +95,9 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
-      share: true
-      related: true
+      comments: false
+      share: false
+      related: false
   # _pages
   - scope:
       path: "_pages"
