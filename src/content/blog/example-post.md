@@ -1,7 +1,8 @@
 ---
-title: Example Draft Post
 author: Florian Atzenhofer-Baumgartner
-pubDatetime: 2024-06-03T20:20:00Z
+pubDatetime: 2022-09-23T15:22:00Z
+modDatetime: 2023-12-21T09:12:47.400Z
+title: Example Draft Post
 slug: example-post
 featured: false
 draft: false
