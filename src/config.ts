@@ -2,9 +2,9 @@ import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
   website: "https://atzenhofer.github.io/",
-  author: "Florian Atzenhofer-Baumgartner",
+  author: "Florian Atzenhofer-B.",
   desc: "A minimal blog.",
-  title: "Florian Atzenhofer-Baumgartner",
+  title: "Florian Atzenhofer-B.",
   lightAndDarkMode: true,
   postPerPage: 3,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
@@ -33,6 +33,6 @@ export const SOCIALS: SocialObjects = [
     name: "Mail",
     href: "mailto:florian.atzenhofer-baumgartner@uni-graz.at",
     linkTitle: `Send an email to ${SITE.title}`,
-    active: false,
+    active: true,
   }
 ];
