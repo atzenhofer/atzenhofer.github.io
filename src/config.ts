@@ -31,7 +31,7 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "Mail",
-    href: "mailto:florian.atzenhofer-baumgartner@uni-graz.at",
+    href: "mailto:atzenhofer@acm.org",
     linkTitle: `Send an email to ${SITE.title}`,
     active: true,
   }
